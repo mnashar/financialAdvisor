@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/mnashar/financialAdvisor/static/css/main.d4c60fce.chunk.css",
+    "main.js": "/mnashar/financialAdvisor/static/js/main.d5bfb51f.chunk.js",
+    "main.js.map": "/mnashar/financialAdvisor/static/js/main.d5bfb51f.chunk.js.map",
+    "runtime-main.js": "/mnashar/financialAdvisor/static/js/runtime-main.c6d9a11d.js",
+    "runtime-main.js.map": "/mnashar/financialAdvisor/static/js/runtime-main.c6d9a11d.js.map",
+    "static/js/2.c5016753.chunk.js": "/mnashar/financialAdvisor/static/js/2.c5016753.chunk.js",
+    "static/js/2.c5016753.chunk.js.map": "/mnashar/financialAdvisor/static/js/2.c5016753.chunk.js.map",
+    "index.html": "/mnashar/financialAdvisor/index.html",
+    "static/css/main.d4c60fce.chunk.css.map": "/mnashar/financialAdvisor/static/css/main.d4c60fce.chunk.css.map",
+    "static/js/2.c5016753.chunk.js.LICENSE.txt": "/mnashar/financialAdvisor/static/js/2.c5016753.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c6d9a11d.js",
+    "static/js/2.c5016753.chunk.js",
+    "static/css/main.d4c60fce.chunk.css",
+    "static/js/main.d5bfb51f.chunk.js"
+  ]
+}
