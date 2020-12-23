@@ -1,4 +1,4 @@
-# BrightPlan
+# Personal Financial Advisor
 
 Financial Advisor
 
