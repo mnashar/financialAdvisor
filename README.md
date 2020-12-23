@@ -1,4 +1,4 @@
-# ReachCharts App
+# BrightPlan
 
 Financial Advisor
 
