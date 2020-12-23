@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/mnashar/marwa/static/css/main.d4c60fce.chunk.css",
-    "main.js": "/mnashar/marwa/static/js/main.f7833220.chunk.js",
-    "main.js.map": "/mnashar/marwa/static/js/main.f7833220.chunk.js.map",
-    "runtime-main.js": "/mnashar/marwa/static/js/runtime-main.7c846fef.js",
-    "runtime-main.js.map": "/mnashar/marwa/static/js/runtime-main.7c846fef.js.map",
-    "static/js/2.d2168475.chunk.js": "/mnashar/marwa/static/js/2.d2168475.chunk.js",
-    "static/js/2.d2168475.chunk.js.map": "/mnashar/marwa/static/js/2.d2168475.chunk.js.map",
-    "index.html": "/mnashar/marwa/index.html",
-    "static/css/main.d4c60fce.chunk.css.map": "/mnashar/marwa/static/css/main.d4c60fce.chunk.css.map",
-    "static/js/2.d2168475.chunk.js.LICENSE.txt": "/mnashar/marwa/static/js/2.d2168475.chunk.js.LICENSE.txt"
+    "main.css": "/react-gh-pages/static/css/main.d4c60fce.chunk.css",
+    "main.js": "/react-gh-pages/static/js/main.ce1ed0fe.chunk.js",
+    "main.js.map": "/react-gh-pages/static/js/main.ce1ed0fe.chunk.js.map",
+    "runtime-main.js": "/react-gh-pages/static/js/runtime-main.990119dc.js",
+    "runtime-main.js.map": "/react-gh-pages/static/js/runtime-main.990119dc.js.map",
+    "static/js/2.086d4aec.chunk.js": "/react-gh-pages/static/js/2.086d4aec.chunk.js",
+    "static/js/2.086d4aec.chunk.js.map": "/react-gh-pages/static/js/2.086d4aec.chunk.js.map",
+    "index.html": "/react-gh-pages/index.html",
+    "static/css/main.d4c60fce.chunk.css.map": "/react-gh-pages/static/css/main.d4c60fce.chunk.css.map",
+    "static/js/2.086d4aec.chunk.js.LICENSE.txt": "/react-gh-pages/static/js/2.086d4aec.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.7c846fef.js",
-    "static/js/2.d2168475.chunk.js",
+    "static/js/runtime-main.990119dc.js",
+    "static/js/2.086d4aec.chunk.js",
     "static/css/main.d4c60fce.chunk.css",
-    "static/js/main.f7833220.chunk.js"
+    "static/js/main.ce1ed0fe.chunk.js"
   ]
 }
